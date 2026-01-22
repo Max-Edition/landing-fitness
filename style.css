@@ -1376,3 +1376,18 @@ body {
         transform: rotate(90deg);
     }
 }
+
+/* Coach and Transformation Images */
+.coach-image {
+    width: 100%;
+    aspect-ratio: 3/4;
+    object-fit: cover;
+    position: relative;
+    z-index: 1;
+}
+
+.transformation-image {
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius-md);
+}
