@@ -1,6 +1,5 @@
 // ========================================
-// IRONCLAD - JavaScript v2.0
-// Dynamic Fitness Interactions
+// IRONCLAD
 // ========================================
 
 document.addEventListener('DOMContentLoaded', () => {
